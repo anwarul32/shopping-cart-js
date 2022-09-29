@@ -28,7 +28,6 @@ document.getElementById('btn-phone-plus').addEventListener('click', function(){
 
     updatePhoneTotalPrice(newPhoneNumber);
     calculateSubTotal();
-    
 })
 
 document.getElementById('btn-phone-minus').addEventListener('click', function(){
